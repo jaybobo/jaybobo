@@ -1,7 +1,7 @@
 ## Summary:
 The Construction Industry Laborers Pension Fund, Central Laborers' Pension Fund and other shareholders filed a complaint against the current and former board of directors of Solarwinds in the Court of Chancery in Delaware for failure to implement or oversee any reasonable monitoring system concerning cybersecurity risks fundamental to SolarWinds’ only line of business. 	
 
-#### Read the entire filing here: 
+#### Read the entire filing here: https://github.com/jaybobo/jaybobo/blob/main/docs/solarwinds-complaint/20211104-shareholders-vs-solarwinds-board-filing.pdf
 			
 ## Important Excerpts:
 ### The culpability and responsibility of the board:
