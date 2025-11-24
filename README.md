@@ -18,6 +18,8 @@ General:
   - Defense in Depth Table for Application Security
  
 ⚡ My Talks:
+  - [The App Sec Podcast w/ Chris Romeo](https://www.youtube.com/watch?v=ol-z_ShulCc)
+  - [Most recent talks](https://github.com/jaybobo/jaybobo/tree/main/talks)
   - [Product Security - How to build an appsec program at a high growth company](https://drive.google.com/file/d/1XDQCDS8pQ68sPSyLbz0KAt68FaQMM9o4/view?usp=sharing)
   - [Impacting Growth - The story of the biggest breach in healthcare](https://drive.google.com/file/d/1uJS24CwdNycLPEIQglxsGEzxFrHR20CT/view?usp=sharing)
   - [Show Me The Money - Lessons from the United Healthcare, Blackbaud and Clorox breaches](https://docs.google.com/presentation/d/1b2rMXCoCU-s3mvZFqmAZg1fCnEPTpobZMjFZE2y6KwI/edit?usp=sharing)
