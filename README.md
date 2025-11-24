@@ -5,8 +5,8 @@
 
 General:
   - 🔭 I'm currently leading the product security team for a large healthcare technology firm
-  - 🌱 I’m learning how to grow agile, scalable security operations teams
-  - 💂 On the side: I help small banks in my community keep an on their vendors
+  - 🌱 I’m learning how to scale appsec and vulnerability management with AI and api development
+  - 🥋 On the side: I write code for my family business and practice judo
   - 💬 Ask me about my previous work teaching cybersecurity and software development with [paircolumbus.org](http://paircolumbus.org)
   - 📫 How to reach me: `amJvYm9bYXRdcGFpcmNvbHVtYnVzW2RvdF1vcmc=`
 
